@@ -1,5 +1,6 @@
  const getSleepHours = day => {
     let hours = console.log ('How many hours of sleep did you get on ' + day + '?');
+      
 
   if (day === 'Monday') {
       return 8;
