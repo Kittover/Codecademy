@@ -1,4 +1,4 @@
-onst getUserChoice = userInput => {
+const getUserChoice = userInput => {
     
     userInput = userInput.toLowerCase();
     
